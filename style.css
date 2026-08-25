@@ -8,8 +8,14 @@ body{
     display:grid;
     place-content: center;
 }
+main{
+    background: #5f5f5f26;
+}
+header{
+
+}
 .main_content{
-    background: #443e3e;
+    background: #8e8e8e;
 }
 article{
     color: white;
