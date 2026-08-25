@@ -4,25 +4,10 @@
     box-sizing:border-box;
 }
 body{
-  height:100dvh;
-  display:grid;
-  place-content: center;
+    height:100dvh;
+    display:grid;
+    place-content: center;
 }
-main{
-  width:500px;
-  height: 700px;
-  background:rgb(240,240,240,.9);
-}
-header{
-  font: bold 4rem sans-serif;
-  background:rgb(0, 0, 0);
-  color:#fff;
-  padding:10px;
-  padding-left: 20px;
-  padding-bottom: 5px;
-}
-nav{
-  background: #0007;
-  color: white;
-  font: bold 1.2rem sans-serif;
+.main_content{
+    background: #443e3e;
 }
